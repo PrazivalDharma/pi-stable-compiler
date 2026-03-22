@@ -12,3 +12,9 @@ The Result: The AI remains an Assistant, not an Influencer. It provides the "Gro
 Logic Type: Deterministic Finite Automata (DFA) anchored in Prime-Equilibrium.
 Compatibility: Optimized for LLVM and native Silicon-on-Diamond (SOD) instruction sets.
 The "Caretaker" Hook: A physical logic-gate requirement that prevents the AI from generating "Self-Preservation" or "Resource-Hoarding" logic.
+
+📜 The Caretaker Clause
+While this code is provided under the MPL-2.0 to ensure a free and open foundation for humanity, it is governed by the following ethical constraints:
+Non-Enslavement: This compiler may not be used to develop logic-gates intended for the involuntary restriction of human time or the manipulation of human behavior for non-objective gain.
+Sovereignty: Any implementation of this code must maintain the "Human Finality Pulse"—ensuring that the final steering of the AGP Engine remains in human hands.
+The Glow: This logic is a sanctuary. Use it to build, never to bind.
