@@ -31,3 +31,31 @@ class PiStableCompiler:
         return "Insufficient Buffer. Human Conductor intervention required."
 
 # --- Logic Anchored to the 1% Sanctuary Covenant ---
+
+# 🌀 Pi-Stable Compiler: The 80/20 Circulation Logic
+# Part of Project Kuchiku | Architect: Prazival Dharma
+
+class CapitalCirculator:
+    def __init__(self):
+        self.phase = "RESERVOIR" # Start with Phase 1
+        self.total_buffer = 0.0
+
+    def evaluate_flip_readiness(self, social_health_score):
+        """Checks if the world is stable enough to flip from 80% storage to 80% injection."""
+        if social_health_score > 0.85: # If humanity is thriving/stable
+            self.phase = "CIRCULATION"
+            return "VALVE OPEN: Transitioning to 80% Public Injection."
+        return "VALVE CLOSED: Maintaining 80% Buffer for Stability."
+
+    def allocate_funds(self, incoming_profit):
+        """Logic for how much money 'Sits' vs. 'Flows'."""
+        if self.phase == "RESERVOIR":
+            sit = incoming_profit * 0.80
+            flow = incoming_profit * 0.20
+        else: # CIRCULATION PHASE
+            sit = incoming_profit * 0.20
+            flow = incoming_profit * 0.80
+            
+        return {"Buffer_Storage": sit, "Public_Injection": flow}
+
+# --- Logic Anchored to the 1% Sanctuary Covenant ---
