@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🛡️ Financial Sentinel: The Anti-Abuse Logic
 # "Wealth is a Tool, Not a Weapon."
 
