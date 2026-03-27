@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 🐣 Genesis Distribution: The $1M Life Money (v1.0)
 # Part of Project Kuchiku | Architect: Prazival Dharma
 
