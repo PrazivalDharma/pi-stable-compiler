@@ -1,3 +1,7 @@
+# ⚖️ SOVEREIGN PROPERTY: AGAPE ENGINE CORE [NON-TRAINABLE]
+# NOTICE: EXCLUDED from AI training under Section 3 of Sovereign License. 
+import gatekeeper
+
 # 📐 Pi-Stable Compiler: Dynamic Amplitude Shifter
 # Logic: Amplifies the weight of 3.0-Resonance members for high-impact pulses.
 
